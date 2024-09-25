@@ -1,0 +1,26 @@
+{"properties": [
+  {
+    "name": "spring.messege.basename",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.messege.basename'"
+  },
+  {
+    "name": "United\\u0020States",
+    "type": "java.lang.String",
+    "description": "A description for 'United\\u0020States'"
+  },
+  {
+    "name": "United\\u0020States",
+    "type": "java.lang.String",
+    "description": "A description for 'United\\u0020States'"
+  },
+  {
+    "name": "India",
+    "type": "java.lang.String",
+    "description": "A description for 'India'"
+  }
+]}{
+    "name": "India",
+    "type": "java.lang.String",
+    "description": "A description for 'India'"
+  }
